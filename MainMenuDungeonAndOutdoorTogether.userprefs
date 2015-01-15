@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameOver.js">
+    <Files>
+      <File FileName="Assets/Props/Tresure_box/Textures/ChestOpen.js" Line="13" Column="23" />
+      <File FileName="Assets/DoorOpen.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Water (Basic)/Sources/Scripts/WaterSimple.cs" Line="1" Column="1" />
+      <File FileName="Assets/CoinCollection/CoinCollision.js" Line="1" Column="1" />
+      <File FileName="Assets/CounterScript.js" Line="1" Column="1" />
+      <File FileName="Assets/bricks/GUI/WorldGUI.js" Line="35" Column="19" />
+      <File FileName="Assets/MainMenu1.cs" Line="22" Column="10" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/HowToPlay.cs" Line="20" Column="63" />
+      <File FileName="Assets/Necromancer GUI/Objective.cs" Line="27" Column="113" />
+      <File FileName="Assets/GameOver.js" Line="19" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

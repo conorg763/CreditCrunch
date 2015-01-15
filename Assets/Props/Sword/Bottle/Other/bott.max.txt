@@ -1,0 +1,14 @@
+AssetName=bott.max.zip
+Price=0
+Keywords=Bottle realistic free glass kitchen beer
+Description=A bottle
+Notes=
+GeometryType=Polygonal
+Polygons=8076
+Vertices=8076
+MaterialsIncluded=1
+TexturesIncluded=1
+Filelist=7
+File1=bottle.jpg
+File2=bott.max.txt
+File3=bott.max.zip
